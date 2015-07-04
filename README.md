@@ -1,4 +1,4 @@
 JSweeper
 ===========
 
-Minesweeper written in Java
+The classic minesweeper written in Java
